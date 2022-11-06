@@ -9,8 +9,8 @@ relationships. This paper examines the potential of LSTM for exchange rate forec
 total of 5.760 historical records were used during the training phase. Once the model has
 learned the relationships from the training dataset, 1.440 new records are used to test the
 model and evaluate its performance. For benchmarking purposes, standard RNN was applied
-to solve the same prediction problem. Results showed better performance of LSTM over
-standard RNN, achieving error rates lower by 71.8%
+to solve the same prediction problem. __Results showed better performance of LSTM over
+standard RNN, achieving error rates lower by 71.8%.__
 
 [LSTM Networks Applied to Exchange Rate Forecasting - PDF](https://github.com/brunoRenzo6/LSTM-Networks-Applied-to-Exchange-Rate-Forecasting/blob/main/TCC_paper/TCC_BrunoNRenzo.pdf)
 </br>
