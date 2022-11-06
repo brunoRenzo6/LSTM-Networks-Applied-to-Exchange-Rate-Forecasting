@@ -31,3 +31,6 @@ standard RNN, achieving error rates lower by 71.8%
     </td>
   </tr>
 </table>
+
+## Performance Metrics
+<img src="https://github.com/brunoRenzo6/LSTM-Networks-Applied-to-Exchange-Rate-Forecasting/blob/main/TCC_paper/figuras/results/performanceMetric.PNG"/>
