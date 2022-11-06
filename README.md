@@ -19,12 +19,12 @@ standard RNN, achieving error rates lower by 71.8%
 <table>
   <tr>
     <td>
-      <img src="https://github.com/brunoRenzo6/LSTM-Networks-Applied-to-Exchange-Rate-Forecasting/blob/main/TCC_paper/figuras/results/testPrediction.JPG" width="370"/>
+      <img src="https://github.com/brunoRenzo6/LSTM-Networks-Applied-to-Exchange-Rate-Forecasting/blob/main/TCC_paper/figuras/results/testPrediction.JPG"/>
       </br>
       From: Mercado Municipal, Sao Paulo, Brasil</br>
     </td>
     <td>
-      <img src="https://github.com/brunoRenzo6/LSTM-Networks-Applied-to-Exchange-Rate-Forecasting/blob/main/TCC_paper/figuras/results/testPrediction_RNN.JPG" width="370"/>
+      <img src="https://github.com/brunoRenzo6/LSTM-Networks-Applied-to-Exchange-Rate-Forecasting/blob/main/TCC_paper/figuras/results/testPrediction_RNN.JPG" />
       </br>
       From: Massachusetts Institute of Technology</br>
     </td>
