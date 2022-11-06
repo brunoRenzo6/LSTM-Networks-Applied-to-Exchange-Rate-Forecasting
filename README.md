@@ -16,17 +16,18 @@ standard RNN, achieving error rates lower by 71.8%
 </br>
 [LSTM Networks Applied to Exchange Rate Forecasting - JupyterNotebook](https://github.com/brunoRenzo6/LSTM-Networks-Applied-to-Exchange-Rate-Forecasting/blob/main/TCC_scripts/stacked_lstm.ipynb)
 
+## LSTM x Vanilla RNN
 <table>
   <tr>
     <td>
       <img src="https://github.com/brunoRenzo6/LSTM-Networks-Applied-to-Exchange-Rate-Forecasting/blob/main/TCC_paper/figuras/results/testPrediction.JPG"/>
       </br>
-      From: Mercado Municipal, Sao Paulo, Brasil</br>
+      LSTM - Prediction results on test dataset
     </td>
     <td>
       <img src="https://github.com/brunoRenzo6/LSTM-Networks-Applied-to-Exchange-Rate-Forecasting/blob/main/TCC_paper/figuras/results/testPrediction_RNN.JPG" />
       </br>
-      From: Massachusetts Institute of Technology</br>
+      Vanilla RNN - Prediction results on test dataset
     </td>
   </tr>
 </table>
